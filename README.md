@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🤔  I'm seeking assistance with visualization using Seaborn. If you have any tips, tricks, or resources related to data visualization, particularly with Seaborn, I would greatly appreciate your help.
 - 💬 Feel free to ask me anything related to AI and data science. I'm passionate about these topics and love discussing them with others.
 - 📫 You can reach me at rebeccacheptoek1@gmail.com or https://www.linkedin.com/in/rebecca-cheptoek
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I can solve complex BODMAS mathematics problems in less than a minute. Math has always been one of my strengths and it fascinates me how logical reasoning can solve intricate problems efficiently.
