@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rebecca Cheptoek, a passionate data science and software development enthusiast who is just starting my career. I have a strong proficiency in Python, JavaScript, and MySQL for software development. In the field of data science, I have expertise in mathematics, Excel, Power BI, visualization, and machine learning.
+### Hi there 👋, I'm Rebecca Cheptoek, a passionate data scientist enthusiast who is just starting my career. In the field of data science, I have expertise in mathematics, Excel, Power BI, visualization, and machine learning. I also have a strong proficiency in Python, JavaScript, and MySQL in software development. 
 
 <!--
 **Rebeccacheptoek/Rebeccacheptoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
