@@ -5,15 +5,15 @@
 
 Here are some ideas to get you started: 
 -->
-- 🔭 I’m currently working on a library management system using Django, where I am utilizing my software development skills to create a robust and efficient application.
-- 🌱 I’m currently focusing on further enhancing my knowledge in feature engineering and machine learning. I'm actively working on a dataset to gain a complete understanding of the data and applying various machine learning techniques to extract valuable insights.
-- 👯  I'm eager to collaborate on exciting data science projects. If you have any projects where I can contribute my skills and knowledge, feel free to reach out to me.
+- 🔭 I’m currently working on a library management system using Django and other old projects
+- 🌱 I’m currently focusing on further enhancing my knowledge in feature engineering and machine learning. 
+- 👯  I'm eager to collaborate on exciting data science projects. 
 - 💬 Feel free to ask me anything related to AI and data science. I'm passionate about these topics and love discussing them with others.
 - 📫 You can reach me at rebeccacheptoek1@gmail.com or https://www.linkedin.com/in/rebecca-cheptoek
-- In my free time I watch series
+- I love cooking
 ### Languages and Tools
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,mysql,python,r,php)](https://skillicons.dev)
-## My Stats
+### My Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Rebeccacheptoek)](https://github.com/Rebeccacheptoek)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebeccacheptoek&layout=compact)](https://github.com/Rebeccacheptoek)
