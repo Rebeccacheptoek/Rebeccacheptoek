@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me at rebeccacheptoek1@gmail.com or https://www.linkedin.com/in/rebecca-cheptoek
 - In my free time I watch series
 ### Languages and Tools
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,mysql,python,r,php)](https://skillicons.dev)
