@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 ### Languages and Tools
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,mysql,python,r,php)](https://skillicons.dev)
 ## My Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/Rebeccacheptoek)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Rebeccacheptoek)](https://github.com/Rebeccacheptoek)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/Rebeccacheptoek)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebeccacheptoek&layout=compact)](https://github.com/Rebeccacheptoek)
