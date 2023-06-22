@@ -1,4 +1,5 @@
-### I am a passionate software engineer and a data scientist enthusiast. I have expertise in Python, PHP, JavaScript, R, Excel, Power BI, visualization, and machine learning. I also have a strong proficiency in Django, Laravel, Pandas, Numpy, Matplotlib, MySQL and PostgreSQL. 
+### I am a passionate software engineer and a data scientist enthusiast. I have expertise in Python, PHP, JavaScript, R, Excel, Power BI, visualization, and machine learning. 
+#### I have a strong proficiency in Django, Laravel, Pandas, Numpy, Matplotlib, MySQL and PostgreSQL. 
 
 <!--
 **Rebeccacheptoek/Rebeccacheptoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
