@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Feel free to ask me anything related to AI and data science. I'm passionate about these topics and love discussing them with others.
 - 📫 You can reach me at rebeccacheptoek1@gmail.com or https://www.linkedin.com/in/rebecca-cheptoek
 ### Languages and Tools
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,mysql,python,r,php)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,mysql,python,r,php,laravel)](https://skillicons.dev)
 ### My Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Rebeccacheptoek)](https://github.com/Rebeccacheptoek)
 
