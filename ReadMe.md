@@ -6,8 +6,7 @@
 
 Here are some ideas to get you started: 
 -->
-- 🔭 Led design, development, and optimization of the contacts module, including the creation of a secure and efficient API endpoint for importing up to 650,000 customer records. This implementation greatly benefited our customers, resulting in impressive client satisfaction and positive feedback.
-- 🔭 I’m currently working on a library management system using Django and other old projects
+- 🔭 Led design, development, and optimization of the contacts module, including the creation of a secure and efficient API endpoint for importing up to 25,000 customer records. This implementation greatly benefited our customers, resulting in impressive client satisfaction and positive feedback.
 - 🌱 I’m also focusing on further enhancing my knowledge in feature engineering and machine learning. 
 - 👯  I'm eager to collaborate on exciting data science projects. 
 - 💬 Feel free to ask me anything related to AI and data science. I'm passionate about these topics and love discussing them with others.
